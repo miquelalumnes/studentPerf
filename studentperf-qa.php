@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <script src="../js/jquery-3.5.0.min.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="jquery-3.5.0.min.js"></script>
     <style>
         html {
             max-width: 90%;
